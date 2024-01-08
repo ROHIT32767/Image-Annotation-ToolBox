@@ -3,7 +3,7 @@
 # Image-Annotation-Tool
 ## To Run
 
-1. Connect to the college network or VPN.
+1. Connect to the IIITH college network or VPN.
 2. Run the following commands in the server, client, and minio server directories:
 
     ```bash
