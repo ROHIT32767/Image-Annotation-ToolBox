@@ -1,6 +1,6 @@
-# Annotation-Tool-Moderation-Tool-Box_DepthFirstSearch
+# Image-Annotation-Tool-Box
 ## [Final-Eval Demo](https://drive.google.com/file/d/1jnuKmRnZ2JKMizktlsQIXc0I1I_abvIh/view?usp=sharing)
-# Image-Annotation-Tool
+# Image-Annotation-Moderation-Tool
 ## To Run
 
 1. Connect to the IIITH college network or VPN.
